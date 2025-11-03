@@ -34,21 +34,17 @@ To develop a structured incident response playbook for a small business client w
 
 ---
 
-## 🔄 Project Steps
+## 🔄 Steps Taken
 
-1. **Scenario Review**: Read and analyzed the provided scenario details  
-2. **Incident Type Selection**: Chose data breach as the primary threat  
-3. **Stakeholder Identification**: Defined roles for Cat, Dusty, Percy, Misha, and others  
-4. **Communication Templates**: Wrote incident letters for third-party and executive use  
-5. **Workflow Development**: Mapped incident steps using the NIST framework  
-6. **Escalation Logic**: Justified decision-making based on six key risk factors:
-   - Severity of impact  
-   - Legal and regulatory obligations  
-   - Threat nature and persistence  
-   - Incident scope  
-   - Duration of the issue  
-   - Confirmed data compromise  
-7. **Final Deliverables**: Playbook document, workflow diagram, stakeholder matrix, and letters
+1. Read the incident scenario to understand stakeholder roles and communication needs  
+2. Selected "data breach" as the incident type based on sensitivity and business impact  
+3. Identified escalation triggers using NIST and CISA guidance (e.g., data compromise, duration)  
+4. Built a stakeholder matrix to define who gets involved, when, and why  
+5. Wrote a technical incident letter for the third-party MSSP  
+6. Wrote a non-technical summary letter for the CEO to explain the situation clearly  
+7. Designed an incident response workflow covering detection, escalation, and containment  
+8. Finalized the playbook with all workflows, templates, and decision points aligned to real-world response goals  
+
 
 ---
 
